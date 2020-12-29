@@ -23,5 +23,7 @@ unexpected ways or breaches any limits
 9. The file is accessed by multi-threading
 
 
-Go through the examples.py file and Testing1.jpd file that are attached here with in order to understand clearly how 
+Go through the examples.py file and Testing1.jpg file that are attached here with in order to understand clearly how 
 the code works and how to perform operations in this. 
+
+![Screenshot](Testing1.jpg)
